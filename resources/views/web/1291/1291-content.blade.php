@@ -8,7 +8,7 @@
 // $url_path = str_replace('\\', '/', $url_path);
 ?>
 
-@extends('layouts.1291')
+@extends('web.layouts.1291')
 @section('content')
 <div class="type-1291">
     <!-- Blog -->

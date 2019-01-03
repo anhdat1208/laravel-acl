@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-    return view('1291.1291-content');
+    return view('web.1291.1291-content');
 });
